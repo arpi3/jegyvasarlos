@@ -4,8 +4,8 @@ var type = prompt("Add meg a típust");
 var  types  = {
   nebulo: 110,
   adult: 230,
-  oreg: 280,
-  majom:100,
+  retired: 280,
+  
 };
 
 var price = types[type];
